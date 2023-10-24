@@ -1,16 +1,16 @@
 body {
-    background: #4c5454;
+    background: #1d2f6f;
     font-family: Arial, Helvetica, sans-serif;
 }
     h1 {
-    color: #ffffff;
+    color: #fac748;
     text-align: center;
     }
     .assign {
         display: flex;
         padding: 10px;
         margin: 10px;
-        background: #ff715b;
+        background: #8390fa;
         }
         .assign img {
         width: 200px;
