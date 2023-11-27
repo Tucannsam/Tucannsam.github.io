@@ -1,6 +1,7 @@
 body {
     background: #1d2f6f;
     font-family: Arial, Helvetica, sans-serif;
+
 }
     h1 {
     color: #fac748;
@@ -34,13 +35,13 @@ body {
             color: salmon; /* pick the color you want */
            }
            body {
-            background-color: #AFFF16;
+            background-color: #ff9770;
             font-family: Arial, Helvetica, sans-serif;
             display: flex;
             flex-wrap: wrap;
            }
            h1 {
-            color: maroon;
+            color: #ffd670;
             text-align: center;
             width: 100%;
             display: block;
@@ -56,18 +57,18 @@ body {
             color: black;
            }
            .assign {
-            background-color: grey;
+            background-color: #70d6ff;
             margin: 10px;
             padding: 10px;
             border-radius: 20px;
             width: 20%;
-            box-shadow: 8px 8px brown;
+            box-shadow: 8px 8px #ff70a6;
             display: block; /* instead of flex */
            }
            .assign img {
             width: 200px;
             margin: 10px;
-            border: 2px solid midnightblue;
+            border: 2px solid white;
            }
            .assign img:hover {
             width: 200px;
